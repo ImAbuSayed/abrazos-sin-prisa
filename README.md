@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> La disco está llena, pero tú brillas más
+> Bailando reguetón con ese compás
+> Me acerco de a poco, no voy a frenar
+> Me tienes adicto a tu forma de mirar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

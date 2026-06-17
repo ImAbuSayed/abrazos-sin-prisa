@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abrazos sin prisa
+
+This log tracks the cryptographic history and versioning for the song **Abrazos sin prisa** (abrazos-sin-prisa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T17:17:06.536704 | `v1` | `4d035933706ebf6df9731d530977d7da6e8b8028cfc8dbdd942610adf5bc2b7f` | `8174beb2aa67911c253022e68ab730730ee005fb6bb2df632e858f29d2a96cf8` | `2026-06-17_abrazos-sin-prisa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
